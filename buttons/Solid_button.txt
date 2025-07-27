@@ -1,0 +1,4 @@
+icon = /img/tailwind.png
+dep = This is a beautiful glass button \n works with tailwind
+ui :
+<button class="bg-blue-500 text-white px-4 py-2 rounded-lg shadow">Click Me</button>
